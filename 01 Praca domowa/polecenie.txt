@@ -1,1 +1,0 @@
-Napisz program, ktory realizuje zadania 7. i 8. z Listy zadań 1. W programie powinny byc zdefiniowane dwie funkcje, jedna dla metody z obniżaniem stopni, druga dla metody zgodne z tw. P.Erdosa, T Gallai. Program powinien pokazywać kolejne obliczenia dla każdej z metod i obydwa wyniki.
